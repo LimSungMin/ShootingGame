@@ -3,9 +3,9 @@ using System.Collections;
 
 public class Test : MonoBehaviour {
 
-	float speed = 50f;
+	float speed = 5f;
 	float tilt = 5f;
-
+    
 	// Use this for initialization
 	void Start () {
 
